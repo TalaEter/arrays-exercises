@@ -80,6 +80,7 @@ function move(array, index, offset){
 
 // Exercise 5
 console.log("\nExercise 5 - Count Occurrences in both reduced(to be revisited later) and not reduced ");
+console.log("\nExercise 3 - from exercises assigned by samar ");
 const number5 = [1,1,1,1,1, 2, 3 ,4];
 const count = countOccurances(number5, 1);
 
